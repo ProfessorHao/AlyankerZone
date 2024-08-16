@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Limits</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <h1>Limits</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../derivatives.html">Derivatives</a></li>
+                <li><a href="integrals.html">Integrals</a></li>
+                <li><a href="limits.html">Limits</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Understanding Limits</h2>
+        <p>A limit is a fundamental concept in calculus that describes the behavior of a function as it approaches a specific point.</p>
+        <p>Key concepts include:</p>
+        <ul>
+            <li>Definition of a limit</li>
+            <li>Limit laws</li>
+            <li>One-sided limits</li>
+            <li>Limits at infinity</li>
+        </ul>
+    </main>
+    <footer>
+        <p>© 2024 Calculus Concepts</p>
+    </footer>
+</body>
+</html>
